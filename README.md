@@ -4,6 +4,7 @@
 1. [Overview](#overview)
 2. [Project Structure](#projectStructure)
 3. [Instructions](#instructions)
+3. [Acknowledgment](#acknowledgment)
 
 <a name="overview"></a>
 ### Overview
